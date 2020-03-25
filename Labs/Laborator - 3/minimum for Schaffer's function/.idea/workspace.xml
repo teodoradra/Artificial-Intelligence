@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="436fd260-f69e-42fc-82f7-e59b06cdc1da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Frogs.2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Frogs.2/Frogs.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Frogs.2/n-queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Frogs.2/queens.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Jumping-frogs-example/UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Task-2(N queen prob)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Task-2(N queen prob)/N-Queen-Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Task-2(N queen prob)/UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator - 2/Task-2(N queen prob)/n - 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/EA/EA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/EA/Individual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/EA/Population.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/EA/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/HillClimbing/HC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/HillClimbing/Individual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/HillClimbing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/PSO/PSO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/PSO/Particle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/PSO/Population.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/PSO/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/Problem/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab - 3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minim-of-a-function/problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/PufCorina-lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/data/data10.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/data/params.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/domain/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/domain/algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/domain/chromosome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/domain/population.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/domain/problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PufCorina-lab2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/PSO.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
               <folding>
                 <element signature="e#320#354#0" expanded="true" />
               </folding>
@@ -89,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1905" />
     <option name="y" value="-15" />
     <option name="width" value="1953" />
@@ -173,15 +130,16 @@
       <option name="presentableId" value="Default" />
       <updated>1584773978656</updated>
       <workItem from="1584773988487" duration="7004000" />
-      <workItem from="1584783105932" duration="2819000" />
+      <workItem from="1584783105932" duration="2864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9823000" />
+    <option name="totallyTimeSpent" value="9868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1240778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,7 +182,7 @@
     <entry file="file://$PROJECT_DIR$/PSO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
           <folding>
             <element signature="e#320#354#0" expanded="true" />
           </folding>
